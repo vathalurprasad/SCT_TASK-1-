@@ -33,10 +33,6 @@ India’s population growth visualization
 
 Country-wise comparisons in interactive format
 
-# Dataset Source
-# API_SP.POP.TOTL_DS2_en_csv_v2_38144.csv
-Downloaded from: World Bank - Population, total
-
 # Learning Outcome
 Reshaped wide-format data into long-format for visualization
 
